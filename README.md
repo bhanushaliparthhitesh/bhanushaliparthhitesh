@@ -11,7 +11,7 @@
 
 ### `$ whoami`
 
-**Parth Bhanushali Hitesh** · Engineering Student · India 🇮🇳
+**Parth Hitesh Bhanushali** · Engineering Student · India 🇮🇳
 
 *Enthusiastic about tech. Still figuring out which corner of it I want to live in — and having a great time doing it.*
 
