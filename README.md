@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=70A5FD&center=true&vCenter=true&width=750&height=80&lines=Hi%2C+I'm+Parth+Hitesh+Bhanushali;Engineering+Student;Exploring+DevOps+%26+MLOps;Always+Curious.+Always+Building." alt="Animated introduction: Parth Hitesh Bhanushali, engineering student exploring DevOps and MLOps" />
 </a>
 
-# Hi, I'm Parth Hitesh Bhanushali 👋
+ 
 
 ### Engineering student exploring DevOps, MLOps, and the ideas behind the code.
 
