@@ -1,19 +1,10 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ████████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-██████╔╝███████║██████╔╝   ██║   ███████║
-██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║
-██║     ██║  ██║██║  ██║   ██║   ██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+# Hi, I'm Parth Hitesh Bhanushali 👋
 
-### `$ whoami`
+### Engineering student exploring DevOps, MLOps, and the ideas behind the code.
 
-**Parth Hitesh Bhanushali** · Engineering Student · India 🇮🇳
-
-*Enthusiastic about tech. Still figuring out which corner of it I want to live in — and having a great time doing it.*
+India 🇮🇳 · Learning by building · Always curious
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-bhanushali-b494072a7/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@bhanushaliparth)
@@ -23,145 +14,121 @@
 
 ---
 
-## 🧠 How I think about tech
+## `$ whoami`
 
-I'm not the kind of person who just builds things. I want to know **why** something was built, **what problem** made someone desperate enough to start it at 2am, and **what idea** is hiding underneath the code.
+I'm an engineering student interested in **how technology works, why it exists, and the problems that inspired it**.
 
-Every project has a story. That's the part I find most interesting.
+Every project has a story: an inconvenience someone couldn't ignore, an experiment that grew, or an idea worth staying up for. I enjoy understanding those stories as much as the code behind them.
 
-Right now I'm deep into **DevOps & MLOps** — the invisible scaffolding that makes everything else actually work. Docker, Kubernetes, GitHub Actions, Terraform, AWS. I also find myself drawn to **AI/ML** and how you ship it reliably, not just prototype it.
+Right now, I'm exploring **DevOps and MLOps** — automating workflows, working with infrastructure, and learning how to take machine learning from experimentation to deployment.
 
-But honestly? I'm still exploring. Tech excites me broadly. I haven't picked my corner yet — and I think that's fine.
+I'm still finding my corner of tech. Until then, I'm building, asking questions, and following what interests me.
 
----
+## 🌱 What I'm learning
 
-## 🛠 What I'm working with
+- **Kubernetes networking** — understanding how services communicate inside a cluster.
+- **ML pipelines and deployment** — connecting experiments, model tracking, and delivery.
+- **GitOps** — using version-controlled workflows to manage infrastructure and deployments.
 
-```yaml
-devops:
-  containers:  [ Docker, Kubernetes ]
-  cloud:       [ AWS ]
-  iac:         [ Terraform ]
-  ci_cd:       [ GitHub Actions, GitLab CI ]
+## 📦 Projects & open source
 
-languages:
-  primary:     [ Python, Go, JavaScript ]
-  familiar:    [ C++, HTML/CSS ]
+| Project | The idea | Stack |
+| :--- | :--- | :--- |
+| **[📚 Edushare](https://github.com/bhanushaliparthhitesh/Edushare)** | What if sharing books were as easy as sharing a link? | HTML · CSS · JavaScript |
+| **[🧪 Keploy](https://github.com/bhanushaliparthhitesh/keploy)** | Exploring and contributing to automated API testing. | Go |
+| **⚙️ MLOps pipeline** — In progress | Building a repeatable path from a trained model to deployment. | Python · Docker · GitHub Actions |
 
-ml_stack:
-  frameworks:  [ PyTorch, MLflow ]
-  data:        [ Pandas, Matplotlib ]
+## 🛠️ Tools I'm working with
 
-backend:
-  frameworks:  [ Django, Node.js ]
-  databases:   [ MySQL ]
+### Languages
 
-currently_learning:
-  - K8s networking
-  - ML pipelines & model deployment
-  - GitOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-philosophy: "Automate everything. Document it. Then automate the documentation."
-```
+### DevOps & Cloud
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## ⚡ A few things about me
+### ML & Data
 
-- 🔍 I get genuinely excited reading about the **origin stories** of projects and companies
-- 🤖 Drawn to **MLOps** — the intersection of infra and AI feels like where interesting problems live
-- 📚 When I'm away from the screen, I read — mostly **Indian authors** (Tagore, Ruskin Bond, Chetan Bhagat, whoever has a good story to tell)
-- 🎵 Music is always on in the background
-- 🌍 Open to collaborations, open source contributions, and internships
-- ✍️ I occasionally write about tech and ideas on [Substack](https://substack.com/@bhanushaliparth)
-- 🤷 I don't know exactly where my career will go — and I think people who are too certain are probably not paying attention
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
----
+### Backend & Databases
 
-## 📦 Things I've built & contributed to
-
-| Project | Story | Stack |
-|---|---|---|
-| [Edushare](https://github.com/bhanushaliparthhitesh/Edushare) | What if sharing books was as easy as sharing a link? | HTML · CSS · JS |
-| [keploy](https://github.com/bhanushaliparthhitesh/keploy) | Contributing to an API testing agent that writes your test cases for you | Go |
-| *In progress* | A proper end-to-end MLOps pipeline — model to production | Python · Docker · GitHub Actions |
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
-
-## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages**
+## 🌳 Growing with every commit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+A little tree shaped by my GitHub journey.
 
-**DevOps & Cloud**
+<img src="./output/bonsai-growth.gif" width="384" alt="Parth's bonsai growing from his GitHub history" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-**ML & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend & Databases**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Grown with git-bonsai](https://img.shields.io/badge/Grown_with-git--bonsai-2ea44f?style=flat-square)](https://github.com/egorthinks/git-bonsai)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ☕ Beyond the code
+
+- **Books:** I often return to Indian authors — Tagore, Ruskin Bond, Chetan Bhagat, and anyone with a story that stays with me.
+- **Music:** Usually playing in the background while I work.
+- **Curiosity:** I love reading about how projects and companies began, especially the decisions that shaped their early days.
+- **Writing:** I occasionally share thoughts on technology and ideas on [Substack](https://substack.com/@bhanushaliparth).
+
+> Automate what repeats. Document what matters. Understand what you ship.
+
+<details>
+<summary><b>📊 GitHub activity</b></summary>
+
+<br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhanushaliparthhitesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=bhanushaliparthhitesh&show_icons=true&theme=tokyonight&hide_border=true" width="480" alt="Parth's GitHub statistics" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bhanushaliparthhitesh&theme=tokyonight&hide_border=true)
+<br><br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushaliparthhitesh&theme=tokyonight&hide_border=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=bhanushaliparthhitesh&theme=tokyonight&hide_border=true" width="480" alt="Parth's GitHub contribution streak" />
 
-</div>
+<br><br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhanushaliparthhitesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanushaliparthhitesh&theme=tokyonight&hide_border=true&layout=compact" width="360" alt="Most-used languages across Parth's public repositories" />
 
 </div>
 
-### 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=bhanushaliparthhitesh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-*"I don't know which field I'll end up in. But I know I'll be excited about it."*
+### Let's build something useful.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=bhanushaliparthhitesh&color=blueviolet&style=flat-square)
+I'm open to **collaborations, open-source contributions, and internships** — especially where infrastructure and machine learning meet.
+
+[Say hello](mailto:Parth.bhanushali241@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/parth-bhanushali-b494072a7/) · [Read my writing](https://substack.com/@bhanushaliparth)
+
+*Still exploring. Always curious.*
 
 </div>
