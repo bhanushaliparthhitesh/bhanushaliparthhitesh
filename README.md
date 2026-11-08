@@ -77,16 +77,14 @@ I'm still finding my corner of tech. Until then, I'm building, asking questions,
 
 <div align="center">
 
-## 🌳 Growing with every commit
+<div align="center">
 
-A little tree shaped by my GitHub journey.
+<h2>🌳 Growing with every commit</h2>
+<p>A little tree shaped by my GitHub journey.</p>
 
-<img src="./output/bonsai-growth.gif" width="384" alt="Parth's bonsai growing from his GitHub history" />
-
-[![Grown with git-bonsai](https://img.shields.io/badge/Grown_with-git--bonsai-2ea44f?style=flat-square)](https://github.com/egorthinks/git-bonsai)
+<img src="https://raw.githubusercontent.com/bhanushaliparthhitesh/bhanushaliparthhitesh/main/output/bonsai-growth.gif" width="384" alt="Parth's GitHub bonsai" />
 
 </div>
-
 ---
 
 ## ☕ Beyond the code
